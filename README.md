@@ -6,8 +6,9 @@
 
 ## 🧠 Informations générales
 
-- **Type** : Projet collectif (8 personnes)  
-- **Durée** : 2 semaines  
+- **Type** : Projet collectif initialement(8 personnes)
+- Je le continue seule sur mon temps libre
+- **Durée du sprint initial** : 2 semaines  
 - **Période** : 6ème mois de formation
 
 ---
