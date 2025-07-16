@@ -19,5 +19,9 @@ class checkRole
         }
 
         return $next($request);
-    }
+    } 
 }
+
+
+
+// Nouveau middleware à créer pour vérifier que l'admin est connecté
